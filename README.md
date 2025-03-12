@@ -22,8 +22,8 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
 - **APIs:**  
   - **Brevo:** Utilizada para envio de e-mails automáticos, como notificações de reajuste de mensalidade.  
   - **Stripe:** Implementada para gerenciamento de pagamentos e assinaturas recorrentes.
-
-![Imagem do WhatsApp de 2025-03-11 à(s) 15 57 21_2119be74](https://github.com/user-attachments/assets/582237de-6768-49c1-b502-5b9895dc0669)
+ 
+![Imagem do WhatsApp de 2025-03-11 à(s) 15 57 21_2119be74](https://github.com/user-attachments/assets/b96fc91f-93f4-45ca-a76e-1fa01b1e20c2)
 
 ## Plataformas
 
@@ -40,27 +40,27 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
 - **Login no App:**  
   Permite que o usuário insira suas credenciais (usuário e senha) para acessar o aplicativo.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_33_43](https://github.com/user-attachments/assets/508d4d56-cd58-4645-862f-f02e695001fd)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_33_43](https://github.com/user-attachments/assets/4a8933b2-af67-4eec-aaf9-970d4c1007f1)
   
 - **Recuperação de Senha:**  
   Disponibiliza uma funcionalidade para que o usuário recupere sua senha em caso de esquecimento, facilitando o restabelecimento do acesso ao app.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_34_24](https://github.com/user-attachments/assets/b193d61a-0853-4c33-9324-00f78ea68b6f)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_34_24](https://github.com/user-attachments/assets/f34d3f9d-f0f0-46fc-a5b2-1adfc4f21143)
 
 ### Tela de Registro
 
 - **Registro de Usuário:**  
   Permite que novos usuários criem uma conta no aplicativo, inserindo informações como nome, e-mail, senha e demais dados necessários para o cadastro.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_34_01](https://github.com/user-attachments/assets/c5b11e35-a62c-4963-9f33-91b7abb5195f)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_34_01](https://github.com/user-attachments/assets/c7e99d0d-e7c5-4e77-b900-117bf5d771b8)
 
 ### Dashboard
 
 - **Resumo de Informações Importantes:**  
   Exibição de dados organizados em gráficos para fornecer uma visão geral da operação do transporte escolar, com métricas essenciais para auxiliar o transportador na tomada de decisões.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_38_33](https://github.com/user-attachments/assets/87c32222-5eae-4284-a031-6b79bedea89b)
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_38_50](https://github.com/user-attachments/assets/0d4467d7-d84e-46ef-8150-dc69e6957b77)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_38_33](https://github.com/user-attachments/assets/51fd307f-881b-4872-8875-da9659c83412)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_38_50](https://github.com/user-attachments/assets/1574791d-35af-4201-b63b-58e2b451f1cd)
 
 
 ### Escolas
@@ -80,7 +80,7 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
 - **Envio de Mensagens para Escola via WhatsApp:**  
   Permite a comunicação direta com a escola através do WhatsApp.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_35_10](https://github.com/user-attachments/assets/17d6aea5-7504-480d-b7f2-11d48fd7887b)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_35_10](https://github.com/user-attachments/assets/2acd3e1c-e779-4d8c-8068-fa514e2ad5a4)
 
 ### Alunos
 
@@ -99,7 +99,7 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
 - **Envio de Mensagem para o Responsável via WhatsApp:**  
   Permite a comunicação direta com o responsável do aluno através do WhatsApp.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_35_31](https://github.com/user-attachments/assets/754232cd-2c8c-45df-83db-eebc8dc2c413)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_35_31](https://github.com/user-attachments/assets/baea1005-41c9-47c7-a4a1-07bdad4c8342)
 
 ### Reajuste
 
@@ -112,7 +112,7 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
 - **Pesquisa de Alunos:**  
   Permite buscar alunos por nome ou valor da mensalidade.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_35_43](https://github.com/user-attachments/assets/6b8b044b-3504-4b4c-9975-b9f04f49a203)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_35_43](https://github.com/user-attachments/assets/6e5b99ee-a617-4615-907f-6ac794144fe4)
 
 ### Convite
 
@@ -121,6 +121,7 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
   
 - **Envio de Convite para Cadastro:**  
   Envio de um link para que o responsável do aluno se auto cadastre via página web.
+
 
 ### Gastos
 
@@ -133,7 +134,7 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
 - **Filtragem por Categoria e Período:**  
   Organização e análise dos gastos mensalmente, categorizando as despesas.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_36_00](https://github.com/user-attachments/assets/4f704485-93ad-47b8-9aee-6832bb311986)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_36_00](https://github.com/user-attachments/assets/d04c8657-cc16-44f0-ad17-4d15ca02dac0)
 
 ### Avisos de Pagamento
 
@@ -143,8 +144,8 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
 - **Cobranças:**  
   Permite a realização de cobranças via WhatsApp dos responsáveis que tiveram atraso nas mensalidades.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_36_21](https://github.com/user-attachments/assets/c779d529-1aca-499b-aa76-41f4ed8a4022)
-  
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_36_21](https://github.com/user-attachments/assets/b2ddd471-e80e-4818-b153-34424056ab5a)
+
 ### Assinatura
 
 - **Realização de Assinatura:**  
@@ -153,7 +154,7 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
 - **Integração com API Stripe:**  
   Permite pagamentos seguros e recorrentes via Stripe.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_36_35](https://github.com/user-attachments/assets/891e0b8a-5064-40c5-8115-47b32c38a9e1)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_36_35](https://github.com/user-attachments/assets/880965e5-bf74-4e6b-953e-30afdefbe5c6)
 
 ### Perfil
 
@@ -166,4 +167,5 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
 - **Exclusão de Conta:**  
   Funcionalidade que permite ao usuário excluir sua conta do sistema, removendo todos os seus dados de forma permanente.
 
-  ![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_36_59](https://github.com/user-attachments/assets/4635583c-6146-4a7b-9654-c6c71e2ed0f4)
+![screencapture-9000-idx-rota-escolar-1740271762534-cluster-uf6urqn4lned4spwk4xorq6bpo-cloudworkstations-dev-2025-03-11-15_36_59](https://github.com/user-attachments/assets/159067cd-fdac-441c-96d0-f5352063abf4)
+
