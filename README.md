@@ -24,7 +24,7 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
   - **Brevo:** Utilizada para envio de e-mails automáticos, como notificações de reajuste de mensalidade.  
   - **Stripe:** Implementada para gerenciamento de pagamentos e assinaturas recorrentes.
  
-![Imagem do WhatsApp de 2025-03-11 à(s) 15 57 21_2119be74](https://github.com/user-attachments/assets/b96fc91f-93f4-45ca-a76e-1fa01b1e20c2)
+![Captura de tela 2025-04-19 125530](https://github.com/user-attachments/assets/131559d9-1858-405d-b8bc-bf83363adb1f)
 
 ## Plataformas
 
