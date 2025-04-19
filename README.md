@@ -15,6 +15,7 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
   - **Hospedagem:** A versão web é hospedada na nuvem, assegurando alta disponibilidade e escalabilidade.  
   - **Banco de Dados:** Responsável pelo armazenamento e gerenciamento seguro dos dados em nuvem.  
   - **Autenticação de Usuários:** Gerencia o acesso e garante a segurança dos usuários nas plataformas web e Android.
+  - **Convite:** Convite hospedado no Firebase Hosting
 
 - **Cloud Run:**  
   Utilizado como webhook de comunicação entre o Stripe e o Firebase Realtime Database, garantindo a atualização automática de informações de pagamentos e assinaturas.
@@ -121,6 +122,11 @@ O **Rota Escolar** foi desenvolvido para atender às necessidades de transportad
   
 - **Envio de Convite para Cadastro:**  
   Envio de um link para que o responsável do aluno se auto cadastre via página web.
+
+- **Definir e Baixar termos de contrato**
+
+![Captura de tela 2025-04-19 131303](https://github.com/user-attachments/assets/45cf4405-6624-4b32-8581-6f7f2eaa8a1e)
+![Captura de tela 2025-04-19 131316](https://github.com/user-attachments/assets/069f59ec-3ab5-4749-9e7d-e5d892a361e2)
 
 
 ### Gastos
